@@ -2,4 +2,4 @@
 ## Onsdag 12.
 ###
 
-Dette er et *prosjekt*
+Dette er et **prosjekt**
